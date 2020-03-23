@@ -1,0 +1,38 @@
+.sektion1 {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 55px;
+  width: 320px;
+  height: 370px;
+}
+.sektion2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 260px;
+  height: 240px;
+}
+.form {
+  padding-top: 33px;
+}
+.form-group {
+  font-style: 12px;
+}
+.input {
+  width: 260px;
+  height: 30px;
+}
+.btn {
+  margin-top: 35px;
+}
+.tabl {
+  background-color: #01b3b3;
+  width: 150px;
+  height: 25px;
+}
+.tabl p {
+  padding-top:2px;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+}
