@@ -18,4 +18,6 @@
 
 [Урок 15](https://artemstrelnikov.github.io/lesson_15/src/index.html "Pixel Perfect")
 
-[Урок 16](https://artemstrelnikov.github.io/github/модуль%205%20практика%201/src/index.html "Модуль 5 практика 1")
+[Модуль 5 практика 1](https://artemstrelnikov.github.io/github/модуль%205%20практика%201/src/index.html "Модуль 5 практика 1")
+
+[Урок 15 модуль 14](https://artemstrelnikov.github.io/github/модуль%205%20практика%201/src/index.html "Урок 15 модуль 14")
