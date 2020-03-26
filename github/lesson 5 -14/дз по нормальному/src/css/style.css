@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Lato|Lobster|Open+Sans&display=swap&subset=cyrillic');
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.Open_Sans {
+font-family: 'Open Sans', sans-serif;
+}
+
+.Bebas {
+font-family: 'Bebas Neue', cursive;
+}
+
+.Lato {
+font-family: 'Lato', sans-serif;
+}
+
+.Lobster {
+font-family: 'Lobster', cursive;
+}
