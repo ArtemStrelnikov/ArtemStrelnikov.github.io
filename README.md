@@ -20,4 +20,4 @@
 
 [Модуль 5 практика 1](https://artemstrelnikov.github.io/github/модуль%205%20практика%201/src/index.html "Модуль 5 практика 1")
 
-[Урок 15 модуль 14](https://artemstrelnikov.github.io/github/модуль%205%20практика%201/src/index.html "Урок 15 модуль 14")
+[Урок 15 модуль 14](https://artemstrelnikov.github.io/github/lesson%205%20-14/дз%20по%20нормальному/src/index.html "Урок 15 модуль 14")
