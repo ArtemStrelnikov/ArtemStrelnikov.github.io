@@ -25,3 +25,5 @@
 [Модуль 5 практика 2](https://artemstrelnikov.github.io/github/модуль%205%20практика%202/src/index.html "Модуль 5 практика 2")
 
 [Урок 15 модуль 15](https://artemstrelnikov.github.io/модуль%205%20урок%2015/index.html "Модуль 5 урок 15")
+
+[Модуль 5 практика 3](https://artemstrelnikov.github.io/5%20практика%203/src/index.html "Модуль 5 практика 3")
