@@ -28,6 +28,8 @@
 
 [Модуль 5 практика 3](https://artemstrelnikov.github.io/github/5%20практика%203%20ак/дз%20по%20нормальному/src/index.html "Модуль 5 практика 3")
 
-[Модуль 5 урок 16](https://artemstrelnikov.github.io/5%20урок%2016/src/index.html "Модуль 5 урок 15") "Слайдер"
+[Модуль 5 урок 16](https://artemstrelnikov.github.io/5%20урок%2016/src/index.html "Модуль 5 урок 16") "Слайдер"
 
 [Модуль 5 практика 4](https://artemstrelnikov.github.io/дз%20по%20нормальному/src/index.html "Модуль 5 практика 4")
+
+[Модуль 5 урок 17](https://artemstrelnikov.github.io/Модуль%205%20урок%2017/дз%20по%20нормальному/src/index.html "Модуль 5 урок 17") "Всплывающие окна"
