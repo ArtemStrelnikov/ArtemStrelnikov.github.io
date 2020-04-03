@@ -43,7 +43,7 @@
 
              <div class="wrap">
                <div class="wrap-block">
-                 <button class="button header-btn">
+                 <button class="button header-btn popup-btn">
                получить консультацию
              </button>
 
@@ -142,7 +142,6 @@
                   </p>
                 </div>
 
-
                 <div class="features-block">
                   <div class="features-img">
                     <picture>
@@ -154,12 +153,40 @@
                   <p>Мы являемся структурным подразделением компании поставщика строительных <br>смесей gicema.ru  и даём Вам самые выгодные цены.
                   </p>
                 </div>
-
-
               </div>
             </div>
-            
           </section>
+
+
+          <!-- Модальные окна -->
+          <!-- Получить консультацию -->
+          <div class="popup">
+            <!-- Само (белое) модальное окно -->
+            <div class="popup-dialog">
+              <!-- Содержимое модального окна -->
+              <div class="popup-content">
+                <button class="popup-close">&times</button>
+                   <!-- Заголовок окна -->
+                  <h4 class="popup-header">
+                    Заинтересовало?
+                  </h4>
+                    <p>Оставьте свои контактные данные <br> для связи</p>
+                    <div class="main-form popup-form">
+                      <form action="#">
+                        <label for="#">Ваше имя</label>
+                     <input class="main-form-input" type="text" >
+                     <label for="#">Номер телефона</label>
+                     <input class="main-form-input" type="text" >
+                     <label for="#">Сообщение</label>
+                     <textarea class="main-form-input" rows="5"></textarea>
+                     <button class="main-form-btn button" type="submit">оставьте заявку</button>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
   
   
 
@@ -176,7 +203,20 @@
       <!-- инициализируем слайдер -->
 
       <script>
+
+                                       /*Всплывающее окно (начало)*/
         $(document).ready(function(){
+          $('.popup-btn').on('click', function(event) {
+            event.preventDefault();
+            $('.popup').fadeIn();
+          });
+          $('.popup-close').on('click', function(event) {
+            event.preventDefault();
+            $('.popup').fadeOut();
+          });
+
+                                       /*Всплывающее окно (конец)*/
+
            $('.features-slider').slick({
              infinite: true,
              slidesToShow: 4,
