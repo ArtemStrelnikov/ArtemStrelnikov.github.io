@@ -36,6 +36,6 @@
 
 [Модуль 5 практика 5](https://artemstrelnikov.github.io/дз%20по%20нормальному/src/index.html "Модуль 5 практика 5")
 
-[Модуль 5 урок 18](https://artemstrelnikov.github.io/дз%20регистрация/src/index.html "Модуль 5 урок 17 ")Табы
+[Модуль 5 урок 18](https://artemstrelnikov.github.io/дз%20регистрация/src/index.html "Модуль 5 урок 17 ") Табы
 
-[Модуль 5 урок 18](https://artemstrelnikov.github.io/дз%20аккардеон/src/index.html#ui-id-7 "Модуль 5 урок 17 ")Аккордеон
+[Модуль 5 урок 18](https://artemstrelnikov.github.io/дз%20аккардеон/src/index.html#ui-id-7 "Модуль 5 урок 17 ") Аккордеон
