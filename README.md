@@ -43,3 +43,5 @@
 [Модуль 5 практика 6](https://artemstrelnikov.github.io/github/дз%20по%20нормальному/src/index.html "Модуль 5 практика 6")
 
 [Модуль 6 урок 19](https://artemstrelnikov.github.io/дз%20по%20нормальному/src/index.html "Модуль 6 урок 19 ") Анимация
+
+[Модуль 6 практика 7](https://artemstrelnikov.github.io/github/дз%20по%20нормальному/src/index.html "Модуль 6 практика 7") 
