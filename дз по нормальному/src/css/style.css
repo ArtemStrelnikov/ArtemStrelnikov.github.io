@@ -1,82 +1,21 @@
-.btn1 {
-	font-size: 3rem;
-	 margin: 0;
-    position: absolute;
-    top: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-    animation:move 4s cubic-bezier(.17,1.21,.84,-0.35) 1s normal infinite, bg-color 1s linear forwards infinite;
+* {
+	box-sizing: border-box;
+}
 
- }
+body {
+	margin: 0;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+.section {
+	min-height: 100vh;
+	text-align: center;
+	width: 100%;
+	display: table;
 	
-
-
-
-/* ключевые кадры анимации  */
-@keyframes move {
-	/* первый кадр анимации */
-from {
-	margin-left: 0%;
-}
-/* промежуточный кадр
-10% {
-	margin-left: 40px;
-} */
-/* конечный кадр анимациии */
-to {
-	margin-left: 100%;
-}
 }
 
-/* @keyframes bg-color {
-	первый кадр анимации
-from {
-	background-color: red;
+.wrap-block {
+	display: table-cell;
+	vertical-align: middle;
+	color: #fff;
 }
-промежуточный кадр
-10% {
-	margin-left: 40px;
-}
-конечный кадр анимациии
-to {
-	background-color: blue;
-}
-}
-
-
-
-.box1 {
-	width: 100px;
-	height: 100px;
-	background-color: red;
-	animation-iteration-count: infinite;
-	animation: move 1s linear forwards, bg-color 1s linear forwards;
-	animation-iteration-count: infinite;
-}
-
-.box2 {
-	margin-top: 10px;
-	width: 100px;
-	height: 100px;
-	background-color: red;
-	animation-name: move;   сжата ниже
-	animation-duration: 4s;
-	animation-timing-function: cubic-bezier(.17,1.21,.84,-0.35);
-	animation-delay: 1s;
-	animation-direction: normal;
-	animation-iteration-count: infinite;
-	animation:move 4s cubic-bezier(.17,1.21,.84,-0.35) 1s normal infinite, bg-color 1s linear forwards infinite;
-
-} */
