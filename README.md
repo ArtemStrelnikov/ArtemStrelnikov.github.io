@@ -50,4 +50,4 @@
 
 [Модуль 6 практика 8](https://artemstrelnikov.github.io/github/github/src/index.html "Модуль 6 практика 8") 
 
-[Модуль 6 урок 21](https://artemstrelnikov.github.io/дз%20по%20нормальному/src/index.html "Модуль 6 урок 21") Параллакс
+[Модуль 6 урок 21](https://artemstrelnikov.github.io/githab_zalupd/дз%20по%20нормальному/src/Новая%20папка/index.html "Модуль 6 урок 21") Параллакс
