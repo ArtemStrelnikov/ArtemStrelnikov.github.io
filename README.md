@@ -49,3 +49,5 @@
 [Модуль 6 урок 20](https://artemstrelnikov.github.io/дз%20по%20нормальному/src/index.html "Модуль 6 урок 20") Видео фон
 
 [Модуль 6 практика 8](https://artemstrelnikov.github.io/github/github/src/index.html "Модуль 6 практика 8") 
+
+[Модуль 6 урок 21](https://artemstrelnikov.github.io/дз%20по%20нормальному/src/index.html "Модуль 6 урок 21") Параллакс
