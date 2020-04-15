@@ -53,3 +53,5 @@
 [Модуль 6 урок 21](https://artemstrelnikov.github.io/githab_zalupd/дз%20по%20нормальному/src/Новая%20папка/index.html "Модуль 6 урок 21") Параллакс
 
 [Модуль 6 практика 9](https://artemstrelnikov.github.io/github/src/index.html "Модуль 6 практика 9") 
+
+[Модуль 6 урок 22](https://artemstrelnikov.github.io/github/6-22/src/index.html "Модуль 6 урок 22") Карта
