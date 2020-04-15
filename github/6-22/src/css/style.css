@@ -1,0 +1,47 @@
+.map {
+  margin-top: 10rem;
+}
+.block {
+  width: 18rem;
+  height: 25rem;
+  background-color: red;
+  position: relative;
+  top: -25rem;
+  left: 12rem;
+}
+.block h1 {
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 2rem;
+}
+.block h2 {
+  font-size: 15px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 2rem;
+  font-weight: 100;
+}
+.block h3 {
+  font-size: 15px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 2rem;
+  font-weight: 100;
+  text-decoration: underline;
+}
+.sektion {
+  margin-top: -20rem;
+}
+p {
+  line-height: 1.2;
+}
+.text {
+  font-size: 13px;
+  text-align: center;
+  padding-top: 10px;
+}
+.phone {
+  font-size: 20px;
+  font-weight: 700;
+}
