@@ -55,3 +55,5 @@
 [Модуль 6 практика 9](https://artemstrelnikov.github.io/github/src/index.html "Модуль 6 практика 9") 
 
 [Модуль 6 урок 22](https://artemstrelnikov.github.io/github/6-22/src/index.html "Модуль 6 урок 22") Карта
+
+[Модуль 6 практика 10](https://artemstrelnikov.github.io/github/src/index.html "Модуль 6 практика 10") 
